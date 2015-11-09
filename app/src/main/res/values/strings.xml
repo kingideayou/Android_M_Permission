@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_M_Permission</string>
+    <string name="permission_contacts_rationale">该程序需要查看联系人列表来发送短息</string>
+    <string name="ok">确定</string>
+</resources>
